@@ -1,10 +1,10 @@
-# 📉 Tech Layoffs & Hiring Trends
+#  Tech Layoffs & Hiring Trends
 
 This repository tracks and analyzes workforce changes in the global technology industry, including layoffs, hiring freezes, and recruitment trends. It provides datasets, scripts, and dashboards to help job seekers, analysts, and researchers understand the evolving tech job market.
 
 ---
 
-## 📊 Features
+##  Features
 - **Data**: Curated datasets on company layoffs, job postings, and hiring announcements.  
 - **Analysis**: SQL queries, Python scripts, and Power BI dashboards for exploring workforce patterns.  
 - **Insights**: Year-over-year comparisons, sector-specific breakdowns, and geographic trends.  
@@ -12,5 +12,5 @@ This repository tracks and analyzes workforce changes in the global technology i
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
