@@ -54,15 +54,9 @@ The project includes:
 - Recent reports suggest layoffs are often tied to AI-driven restructuring and changing business priorities, while hiring continues in specialized technical roles. 
 
 
-```
 
-## Future Improvements
 
-- Real-time job market tracking
-- Predictive hiring analysis
-- Machine learning models for layoff prediction
-- Interactive Power BI dashboards
-- Automated data updates
+
 
 
 
